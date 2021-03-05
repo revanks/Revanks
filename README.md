@@ -3,8 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
-## Slow Motion of Neurons Forming New Connections. Your Thoughts Look Like This!
+## This Is How Your Thoughts Look Like!
+### Slow Motion of Neurons Forming New Connections
 <img width="500"  alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
+![image Caredt}(https://wellsbaum.blog/what-your-thoughts-look-like/)
+
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - 👯 I’m looking to collaborate on Machine Learning projects
