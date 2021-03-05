@@ -1,7 +1,7 @@
 ## 👋 Hello World, I'm revanks! 
 
 ![](https://komarev.com/ghpvc/?username=revanks)
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sachinrev.work@gmail.com)](mailto:sachinrev.work@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-revanks-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sachinrev.work@gmail.com)](mailto:sachinrev.work@gmail.com)
 
 ## This Is How Your Thoughts Look Like!
 
