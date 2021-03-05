@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=revanks)
 
 
-<img align="right" alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
+<img width="400" align="right" alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
 
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
