@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
-### This Is How Your Thoughts Look Like!
+< This Is How Your Thoughts Look Like! align="right" >
 
 Slow Motion of Neurons Forming New Connections
 
