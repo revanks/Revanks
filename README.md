@@ -12,7 +12,7 @@ Image Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 
 ## About Me
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision
 - 👯 I’m looking to collaborate on Machine Learning projects
 
 ### Recent Projects 
