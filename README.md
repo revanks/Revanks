@@ -3,9 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
-
-<img width="400" align="right" alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
-< [Slow Motion of Neurons Forming New Connections. Your Thoughts Look Like This!] width="400" align="right"  />
+## Slow Motion of Neurons Forming New Connections. Your Thoughts Look Like This!
+<img width="500"  alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - 👯 I’m looking to collaborate on Machine Learning projects
