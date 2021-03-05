@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
-- 🌱 I’m currently learning MAchine Learning, Deep Learning, Computer Vision, Natural Language Processing
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - 👯 I’m looking to collaborate on Machine Learning projects
 
 ### Recent Projects 
