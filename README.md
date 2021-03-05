@@ -21,12 +21,12 @@ GIF Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 -
 -
 
-### Tools and Technologies:
+## Tools and Technologies:
 
-#### Languages
+### Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-#### Libraries/Frameworks
+### Libraries/Frameworks
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
@@ -36,7 +36,7 @@ GIF Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 
 
 
-#### Cloud Platforms
+### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
 
