@@ -1,3 +1,8 @@
+
+![Slow Motion of Neurons Forming New Connections. Your Thoughts Look Like This!]
+
+(https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif)
+
 ## 👋 Hello World, I'm revanks! 
 
 ![](https://komarev.com/ghpvc/?username=revanks)
