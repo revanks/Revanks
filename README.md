@@ -1,4 +1,4 @@
-## 👋 Hello World, I'm revanks! 
+## 👋 Hi, I'm revanks! 
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 [![Gmail Badge](https://img.shields.io/badge/-revanks-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sachinrev.work@gmail.com)](mailto:sachinrev.work@gmail.com)
