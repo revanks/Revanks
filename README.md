@@ -1,9 +1,11 @@
 
-![Slow Motion of Neurons Forming New Connections. Your Thoughts Look Like This!](https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif)
-
 ## 👋 Hello World, I'm revanks! 
 
 ![](https://komarev.com/ghpvc/?username=revanks)
+
+
+<img align="right" alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
+
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - 👯 I’m looking to collaborate on Machine Learning projects
