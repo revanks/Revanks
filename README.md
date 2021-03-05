@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm revanks! :smiley:
+# 👋 Hello World, I'm revanks! 
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
