@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=revanks)
 [![Gmail Badge](https://img.shields.io/badge/-revanks-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sachinrev.work@gmail.com)](mailto:sachinrev.work@gmail.com)
 
-## This Is How Your Thoughts Look Like!
+## Your Thoughts Might Look Like This!
 
 Slow Motion of Neurons Forming New Connections
 
