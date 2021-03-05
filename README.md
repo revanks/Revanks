@@ -2,13 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=revanks)
 
-<p align="right" This Is How Your Thoughts Look Like!>
+## This Is How Your Thoughts Look Like!
 
 Slow Motion of Neurons Forming New Connections
 
 <img width="500"  alt="GIF" src="https://github.com/revanks/NLP-notebooks/blob/main/NLP/NeuronThought.gif" />
 
-Image Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
+GIF Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 
 ## About Me
 
