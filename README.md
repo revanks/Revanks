@@ -17,9 +17,9 @@ GIF Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 - 👯 I’m looking to collaborate on Machine Learning projects
 
 ### Recent Projects 
--
--
--
+- [Pressure Drop Prediction Tool](https://github.com/revanks/Pressure-Drop-Prediction-Tool)
+- [Machine Learning Technique For Pressure Drop Prediction](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction)
+- [Machine Learning Technique For Flow Regime Classification](https://github.com/revanks/Machine_Learning_Technique_For_Flow_Regime_Classification)
 
 ## Tools and Technologies:
 
