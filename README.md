@@ -18,8 +18,8 @@ GIF Credit: https://wellsbaum.blog/what-your-thoughts-look-like/
 
 ### Recent Projects 
 - [RefPTH Prediction WebApp](https://refpth-predict.herokuapp.com/)
-- [Machine Learning Technique For Pressure Drop Prediction](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction)
-- [Machine Learning Technique For Flow Regime Classification](https://github.com/revanks/Machine_Learning_Technique_For_Flow_Regime_Classification)
+- [BERT-for-Summarizing-News-Articles](https://github.com/revanks/BERT-for-Summarizing-News-Articles-)
+- [Transformer-for-Youtube-Video-Transcript-Summarization](https://github.com/revanks/Transformer-for-Youtube-Video-Transcript-Summarization)
 
 ## Tools and Technologies:
 
